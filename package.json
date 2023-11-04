@@ -1,0 +1,16 @@
+{
+  "name": "cypress-example",
+  "version": "1.0.0",
+  "description": "A Cypress sandox to play arround.",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fecresgam/cypress-example.git"
+  },
+  "dependencies": {
+    "cypress": "^13.4.0"
+  }
+}
